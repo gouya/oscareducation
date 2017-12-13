@@ -289,12 +289,17 @@ def skill_pedagogic_ressources(request, type, slug):
     rated_res = {}
     """All resource id from the page!"""
     for item in base.resource.all():
-        r = Rating.objects.filter(resource=item.id, rated_by=request.user)
-        s = Star_rating.objects.filter(resource=item.id, rated_by=request.user)
+        resource = Resource.objects.get(pk=item.id)
+        st,p = resource.average()
+
+        r = Rating.objects.filter(resource=item.id,rated_by=request.user)
+        s = Star_rating.objects.filter(resource=item.id,rated_by=request.user)
         if r.exists() & s.exists():
             if s.count() != 1:
                 print "Error more than 1 star rating for 1 resource"
             rated_res[item.id] = {}
+            rated_res[item.id]["prof"] = p
+            rated_res[item.id]["stud"] = st
             for rr in r:
                 rated_res[item.id][rr.question.id] = rr.value
 

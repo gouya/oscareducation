@@ -869,7 +869,6 @@ def update_pedagogical_ressources(request, type, id):
             rated_res[item.id] = {}
             rated_res[item.id]["prof"] = p
             rated_res[item.id]["stud"] = st
-            print(str(p)+""+str(st))
             for rr in r:
                 rated_res[item.id][rr.question.id] = rr.value
 
