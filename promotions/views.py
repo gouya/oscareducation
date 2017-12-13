@@ -2036,6 +2036,7 @@ def create_rate(request,type,id):
 
 
 def get_rate_vote(request,type,id):
+    print("helow")
     if request.method == 'POST':
         dicty = {}
         id = int(request.POST.get('id'))
@@ -2061,7 +2062,10 @@ def get_rate_vote(request,type,id):
         s,p = resource.average()
         dicty["professor"] = s
         dicty["student"] = p
+
+        print("Called")
         for q in questions:
+            print(q.id)
             dicty["data"][int(q.id)] = []
             dicty["data"][int(q.id)].append(q.question_statement)
             r = Rating.objects.filter(question=q,resource=id,rated_by=request.user)

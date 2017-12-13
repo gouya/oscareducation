@@ -6,6 +6,7 @@ from datetime import datetime
 
 from django.shortcuts import render, get_object_or_404
 from django.core.exceptions import PermissionDenied
+from django.http import HttpResponseRedirect, HttpResponse, HttpResponseBadRequest, HttpResponseForbidden
 from django.http import HttpResponseRedirect
 from django.core.urlresolvers import reverse
 from django.views.decorators.http import require_POST
@@ -31,6 +32,9 @@ from promotions.models import Lesson
 
 from users.models import Student
 from users.models import Professor
+from resources.models import Resource
+from rating.models import Question as RatingQuestion
+from rating.models import Rating, Star_rating
 
 
 from django.apps import apps
@@ -277,7 +281,7 @@ def skill_pedagogic_ressources(request, type, slug):
         "skill": skill,
         "personal_resource": personal_resource,
     })"""
-
+    print("heo")
     if type == 'skill':
         base = get_object_or_404(Skill, code=slug)
     elif type == 'section':
@@ -285,6 +289,7 @@ def skill_pedagogic_ressources(request, type, slug):
     else:
         # type == 'coder'
         base = get_object_or_404(CodeR, id=slug)
+
 
     rated_res = {}
     """All resource id from the page!"""
@@ -566,3 +571,126 @@ def skill_pedagogic_ressources(request, type, slug):
                 pass
 
     return render(request, "professor/skill/update_pedagogical_resources.haml", dico)
+
+def create_rate(request,type,id):
+    if request.method == 'POST':
+        json_str = request.POST.get('json_str')
+
+        response_data = {}
+        try:
+            dict = json.loads(json_str)
+        except ValueError, e:
+            print "Invalid JSON received"
+            return HttpResponse(json.dumps(response_data),content_type="application/json")
+        r_id = int(dict["id"])
+        try:
+            resource = Resource.objects.get(pk=r_id)
+        except Resource.DoesNotExist:
+            print "Error: resource doensn't exist"
+            return
+        stars = 0.0
+        count = 0
+        for item in dict["rated"]:
+            q = RatingQuestion.objects.get(pk=int(item))
+            resource.add_rating(question=q, value=float(dict["rated"][item]), user=request.user)
+            count +=1
+            stars += float(dict["rated"][item])
+            response_data[int(item)] = resource.get_votes_question(question=q)
+        if count != 0:
+            if dict["comment"].strip() != "":
+                resource.add_star(stars/count, request.user,comment=dict["comment"].strip())
+            else:
+                resource.add_star(stars/count, request.user)
+        # Fill response data with average for each question of that resource
+            #EMPTY for now
+        return HttpResponse(
+            json.dumps(response_data),
+            content_type="application/json"
+        )
+    else:
+        return HttpResponse(
+            json.dumps({"nothing to see": "this isn't happening"}),
+            content_type="application/json"
+        )
+
+
+def get_rate_vote(request,type,id):
+    print("helow")
+    if request.method == 'POST':
+        dicty = {}
+        id = int(request.POST.get('id'))
+        try:
+            Professor.objects.get(user=request.user)
+            prof_or_stud = 0
+        except Professor.DoesNotExist:
+            try:
+                Student.objects.get(user=request.user)
+                prof_or_stud = 1
+            except Student.DoesNotExist:
+                print "Error: the user is no a student nor a professor"
+                prof_or_stud = -1
+
+        if prof_or_stud == 0:
+            questions = RatingQuestion.objects.filter(type=0)
+        elif prof_or_stud == 1:
+            questions = RatingQuestion.objects.filter(type=1)
+        else:
+            questions = {}
+        dicty["data"] = {}
+        resource = Resource.objects.get(pk=id)
+        s,p = resource.average()
+        dicty["professor"] = s
+        dicty["student"] = p
+
+        print("Called")
+        for q in questions:
+            print(q.id)
+            dicty["data"][int(q.id)] = []
+            dicty["data"][int(q.id)].append(q.question_statement)
+            r = Rating.objects.filter(question=q,resource=id,rated_by=request.user)
+            if r.exists():
+                stars = r.first().value
+                dicty["data"][int(q.id)].append(int(stars))
+            else:
+                dicty["data"][int(q.id)].append(0)
+        s = Star_rating.objects.filter(rated_by=request.user,resource=id)
+        if (s.exists() and s.count() == 1):
+            dicty["comment"] = s.first().comment
+        else:
+            dicty["comment"] = ""
+        if len(dicty["data"]) <= 0:
+            print("NO questions found in DB")
+        return HttpResponse(
+            json.dumps(dicty),
+            content_type="application/json"
+        )
+    else:
+        return HttpResponse(
+            json.dumps({}),
+            content_type="application/json"
+        )
+
+def get_average(request,type,id):
+    if request.method == 'POST':
+        id = int(request.POST.get('id'))
+        type = str(request.POST.get('type'))
+        try:
+            r = Resource.objects.get(pk=id)
+        except Resource.DoesNotExist:
+            r = None
+        questions = r.get_question_voted(type)
+        votes = {}
+        for qid in questions:
+            votes[qid] = []
+            votes[qid].append(r.get_average_votes_question(qid,type))
+            votes[qid].append(RatingQuestion.objects.get(pk=qid).label)
+
+        return HttpResponse(
+            json.dumps(votes),
+            content_type="application/json"
+        )
+    else:
+        return HttpResponse(
+            json.dumps({}),
+            content_type="application/json"
+        )
