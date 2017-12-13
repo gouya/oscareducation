@@ -1,0 +1,1349 @@
+1513168455951	geckodriver	INFO	geckodriver 0.19.1
+1513168455956	geckodriver	INFO	Listening on 127.0.0.1:44613
+1513168457084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.N4x6FSuPEpvQ"
+1513168457538	Marionette	INFO	Enabled via --marionette
+1513168459184	Marionette	INFO	Listening on port 33851
+1513168459193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513168459248	Marionette	DEBUG	Register listener.js for window 2147483649
+1513168459263	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513168459306	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513168459306	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513168459479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168459539	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168460045	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168472611	geckodriver	INFO	geckodriver 0.19.1
+1513168472614	geckodriver	INFO	Listening on 127.0.0.1:50759
+1513168473732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ip8gOGmBvZ7S"
+1513168474158	Marionette	INFO	Enabled via --marionette
+1513168475616	Marionette	INFO	Listening on port 38709
+1513168475647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513168475710	Marionette	DEBUG	Register listener.js for window 2147483649
+1513168475747	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513168475797	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513168475797	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513168475941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168476001	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168476427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168530403	geckodriver	INFO	geckodriver 0.19.1
+1513168530406	geckodriver	INFO	Listening on 127.0.0.1:38799
+1513168531528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Q9IhSQFZ9mA5"
+1513168531952	Marionette	INFO	Enabled via --marionette
+1513168533244	Marionette	INFO	Listening on port 45707
+1513168533340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513168533390	Marionette	DEBUG	Register listener.js for window 2147483649
+1513168533409	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513168533461	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513168533461	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513168533621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168533678	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168534159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168534955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168534959	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168535187	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168535188	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168535681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/dashboard/"
+1513168535705	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/dashboard/"
+1513168673515	geckodriver	INFO	geckodriver 0.19.1
+1513168673519	geckodriver	INFO	Listening on 127.0.0.1:33633
+1513168674628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BOLhIuTX6JYz"
+1513168675077	Marionette	INFO	Enabled via --marionette
+1513168676394	Marionette	INFO	Listening on port 42805
+1513168676477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513168676529	Marionette	DEBUG	Register listener.js for window 2147483649
+1513168676557	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513168676605	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513168676605	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513168676776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168676838	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168677326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168678103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168678106	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168679477	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168679478	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168680652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168680694	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168680943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513168800058	geckodriver	INFO	geckodriver 0.19.1
+1513168800061	geckodriver	INFO	Listening on 127.0.0.1:59411
+1513168801166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hf1VBmO9Fn4K"
+1513168801640	Marionette	INFO	Enabled via --marionette
+1513168803028	Marionette	INFO	Listening on port 42065
+1513168803102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513168803153	Marionette	DEBUG	Register listener.js for window 2147483649
+1513168803171	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513168803218	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513168803218	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513168803379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168803446	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168803904	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168804668	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168804671	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168806149	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168806149	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168807319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168807361	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168833304	geckodriver	INFO	geckodriver 0.19.1
+1513168833307	geckodriver	INFO	Listening on 127.0.0.1:33593
+1513168834422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JEsYjA4qRLTJ"
+1513168834845	Marionette	INFO	Enabled via --marionette
+1513168836254	Marionette	INFO	Listening on port 43325
+1513168836358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513168836410	Marionette	DEBUG	Register listener.js for window 2147483649
+1513168836446	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513168836494	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513168836495	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513168836647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168836707	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168837193	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168837990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168837993	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168839386	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168839386	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168840565	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168840614	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168841189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5206, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513168852849	geckodriver	INFO	geckodriver 0.19.1
+1513168852852	geckodriver	INFO	Listening on 127.0.0.1:34413
+1513168853976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.N3murOFehomM"
+1513168854423	Marionette	INFO	Enabled via --marionette
+1513168855770	Marionette	INFO	Listening on port 43405
+1513168855787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513168855847	Marionette	DEBUG	Register listener.js for window 2147483649
+1513168855873	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513168855928	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513168855928	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513168856121	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168856145	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168856635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168857423	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168857426	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168858767	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168858768	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168859894	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168859941	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168860504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168971309	geckodriver	INFO	geckodriver 0.19.1
+1513168971312	geckodriver	INFO	Listening on 127.0.0.1:42013
+1513168972435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g4aZf0tvqBM7"
+1513168972890	Marionette	INFO	Enabled via --marionette
+1513168974236	Marionette	INFO	Listening on port 38069
+1513168974248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513168974303	Marionette	DEBUG	Register listener.js for window 2147483649
+1513168974346	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513168974393	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513168974394	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513168974924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168974986	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513168975485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168976274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513168976278	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168977561	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168977562	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513168978711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168978755	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513168979399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169021793	geckodriver	INFO	geckodriver 0.19.1
+1513169021796	geckodriver	INFO	Listening on 127.0.0.1:40635
+1513169022922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DYh7YsupzmFU"
+1513169023376	Marionette	INFO	Enabled via --marionette
+1513169024723	Marionette	INFO	Listening on port 38611
+1513169024792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513169024848	Marionette	DEBUG	Register listener.js for window 2147483649
+1513169024867	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513169024912	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513169024912	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513169025111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169025138	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169025648	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169026443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169026446	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169027762	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169027763	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169028897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169028941	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169044326	geckodriver	INFO	geckodriver 0.19.1
+1513169044330	geckodriver	INFO	Listening on 127.0.0.1:41655
+1513169045435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JIUv2P7kg8Nr"
+1513169045899	Marionette	INFO	Enabled via --marionette
+1513169047226	Marionette	INFO	Listening on port 38185
+1513169047248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513169047302	Marionette	DEBUG	Register listener.js for window 2147483649
+1513169047329	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513169047377	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513169047377	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513169047589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169047664	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169048121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169048902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169048905	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169050265	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169050265	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169051414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169051456	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169052149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169168897	geckodriver	INFO	geckodriver 0.19.1
+1513169168900	geckodriver	INFO	Listening on 127.0.0.1:36335
+1513169170003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NyOkjY51zMNc"
+1513169170453	Marionette	INFO	Enabled via --marionette
+1513169171853	Marionette	INFO	Listening on port 38377
+1513169171926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513169171982	Marionette	DEBUG	Register listener.js for window 2147483649
+1513169171999	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513169172058	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513169172059	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513169172212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169172269	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169172712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169173515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169173519	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169174882	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169174883	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169176070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169176112	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+Sandbox: Unexpected EOF, op 0 flags 0302 path /dev/shm/org.chromium.LfUKjz
+[GFX1-]: Failed 2 buffer db=0 dw=0 for 0, 0, 1845, 980
+[GFX1-]: Failed 2 buffer db=0 dw=0 for 0, 0, 1845, 980
+[GFX1-]: Failed 2 buffer db=0 dw=0 for 617, 2688, 771, 3328
+[GFX1-]: Failed 2 buffer db=0 dw=0 for 0, 0, 1845, 70
+[GFX1-]: Failed 2 buffer db=0 dw=0 for 0, 0, 1845, 50
+[GFX1-]: Failed 2 buffer db=0 dw=0 for 0, 0, 200, 980
+[Child 7909, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513169290451	geckodriver	INFO	geckodriver 0.19.1
+1513169290454	geckodriver	INFO	Listening on 127.0.0.1:36043
+1513169291559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8CCUbAqWXSuc"
+1513169291979	Marionette	INFO	Enabled via --marionette
+1513169293420	Marionette	INFO	Listening on port 39711
+1513169293509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513169293562	Marionette	DEBUG	Register listener.js for window 2147483649
+1513169293592	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513169293634	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513169293634	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513169293797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169293856	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169294354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169295122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169295125	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169296432	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169296432	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169297607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169297649	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+[Child 8693, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513169371449	geckodriver	INFO	geckodriver 0.19.1
+1513169371452	geckodriver	INFO	Listening on 127.0.0.1:57045
+1513169372556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.f1yUhEJ6EfA0"
+1513169372996	Marionette	INFO	Enabled via --marionette
+1513169374473	Marionette	INFO	Listening on port 38699
+1513169374577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513169374646	Marionette	DEBUG	Register listener.js for window 2147483649
+1513169374659	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513169374704	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513169374704	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513169374837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169374893	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169375379	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169376172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169376175	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169377487	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169377488	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169378607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169378649	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169378915	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169389846	geckodriver	INFO	geckodriver 0.19.1
+1513169389849	geckodriver	INFO	Listening on 127.0.0.1:58187
+1513169390976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2626JpbqDzrj"
+1513169391414	Marionette	INFO	Enabled via --marionette
+1513169392722	Marionette	INFO	Listening on port 35619
+1513169392820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513169392881	Marionette	DEBUG	Register listener.js for window 2147483649
+1513169392897	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513169392958	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513169392959	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513169393160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169393266	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513169393708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169394522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513169394525	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169395864	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169395865	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513169396924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169397726	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513169397954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171212281	geckodriver	INFO	geckodriver 0.19.1
+1513171212286	geckodriver	INFO	Listening on 127.0.0.1:60239
+1513171213412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mUo6WWm9TMkS"
+1513171213867	Marionette	INFO	Enabled via --marionette
+1513171215484	Marionette	INFO	Listening on port 42857
+1513171215561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171215617	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171215631	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171215703	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171215704	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171221298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171221320	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171221802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171222606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171222610	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171223935	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171223936	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171225617	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171225657	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171225910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171248786	geckodriver	INFO	geckodriver 0.19.1
+1513171248790	geckodriver	INFO	Listening on 127.0.0.1:54809
+1513171249886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sSsLx7Wwm1ZQ"
+1513171250314	Marionette	INFO	Enabled via --marionette
+1513171251596	Marionette	INFO	Listening on port 43073
+1513171251706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171251759	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171251772	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171251842	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171251842	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171253264	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171253321	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171253881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171254634	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171254639	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171256047	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171256047	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171262851	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171277322	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171293256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171333348	geckodriver	INFO	geckodriver 0.19.1
+1513171333351	geckodriver	INFO	Listening on 127.0.0.1:38911
+1513171334450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yGd0CBvtNID1"
+1513171334884	Marionette	INFO	Enabled via --marionette
+1513171336244	Marionette	INFO	Listening on port 46851
+1513171336266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171336320	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171336364	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171336422	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171336422	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171337844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171337865	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171338301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171339093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171339096	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1513171340387	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171340387	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171342097	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171342139	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171342386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171495455	geckodriver	INFO	geckodriver 0.19.1
+1513171495458	geckodriver	INFO	Listening on 127.0.0.1:46633
+1513171496559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M6C5LnWhS9Jf"
+1513171497007	Marionette	INFO	Enabled via --marionette
+1513171498280	Marionette	INFO	Listening on port 38485
+1513171498380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171498440	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171498459	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171498509	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171498509	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171499178	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171499241	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171499689	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171500490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171500501	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513171501811	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/dashboard/"
+1513171501812	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513171503144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171503204	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171503456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171519989	geckodriver	INFO	geckodriver 0.19.1
+1513171519992	geckodriver	INFO	Listening on 127.0.0.1:33379
+1513171521088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L27CpxYQJqns"
+1513171521563	Marionette	INFO	Enabled via --marionette
+1513171523060	Marionette	INFO	Listening on port 40819
+1513171523097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171523156	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171523177	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171523222	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171523222	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171523622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171523682	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171524134	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171524934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171524937	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171526290	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171526291	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171528707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171528752	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171538144	geckodriver	INFO	geckodriver 0.19.1
+1513171538147	geckodriver	INFO	Listening on 127.0.0.1:35919
+1513171539242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xxaAy8eeppnn"
+1513171539678	Marionette	INFO	Enabled via --marionette
+1513171541067	Marionette	INFO	Listening on port 45793
+1513171541151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171541205	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171541232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171541278	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171541279	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171541792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171541851	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171542297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171543071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171543074	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171544367	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171544368	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171545817	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171545864	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171546122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171570768	geckodriver	INFO	geckodriver 0.19.1
+1513171570771	geckodriver	INFO	Listening on 127.0.0.1:53399
+1513171571891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VCLpIq8tEMSC"
+1513171572335	Marionette	INFO	Enabled via --marionette
+1513171573936	Marionette	INFO	Listening on port 37363
+1513171574003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171574062	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171574080	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171574121	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171574121	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171574486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171574541	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171574980	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171575779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171575782	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171577061	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171577061	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171583188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171583233	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171588529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171598366	geckodriver	INFO	geckodriver 0.19.1
+1513171598369	geckodriver	INFO	Listening on 127.0.0.1:48689
+1513171599476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mOyRBOxvqTDJ"
+1513171599934	Marionette	INFO	Enabled via --marionette
+1513171601315	Marionette	INFO	Listening on port 39861
+1513171601427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171601486	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171601508	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171601564	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171601564	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171602337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171602358	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171602779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171603550	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171603555	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171604893	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171604895	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171606329	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171606370	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171611665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171625035	geckodriver	INFO	geckodriver 0.19.1
+1513171625037	geckodriver	INFO	Listening on 127.0.0.1:35427
+1513171626140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.swkcTMsrqgrT"
+1513171626592	Marionette	INFO	Enabled via --marionette
+1513171628014	Marionette	INFO	Listening on port 40737
+1513171628047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171628111	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171628124	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171628191	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171628191	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171628648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171628709	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171629197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171629976	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171629980	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171631347	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171631347	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171633395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171633436	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171638713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171652520	geckodriver	INFO	geckodriver 0.19.1
+1513171652522	geckodriver	INFO	Listening on 127.0.0.1:38995
+1513171653645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dDiOT8l4UYZU"
+1513171654066	Marionette	INFO	Enabled via --marionette
+1513171655473	Marionette	INFO	Listening on port 33181
+1513171655557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171655611	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171655629	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171655676	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171655676	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171656071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171656135	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171656561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171657330	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171657334	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171658649	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171658649	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171660690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171660734	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171666029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5174, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513171844135	geckodriver	INFO	geckodriver 0.19.1
+1513171844138	geckodriver	INFO	Listening on 127.0.0.1:34839
+1513171845253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i3pvSvvxm6bp"
+1513171845683	Marionette	INFO	Enabled via --marionette
+1513171847069	Marionette	INFO	Listening on port 40923
+1513171847171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513171847220	Marionette	DEBUG	Register listener.js for window 2147483649
+1513171847232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513171847270	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513171847270	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513171848622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171848684	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513171849121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171849924	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513171849927	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171851218	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171851220	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513171857827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171863325	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513171863590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172917567	geckodriver	INFO	geckodriver 0.19.1
+1513172917570	geckodriver	INFO	Listening on 127.0.0.1:38313
+1513172918693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2yDZlHViODZI"
+1513172919121	Marionette	INFO	Enabled via --marionette
+1513172920606	Marionette	INFO	Listening on port 40219
+1513172920703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513172920759	Marionette	DEBUG	Register listener.js for window 2147483649
+1513172920779	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513172920825	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513172920825	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513172921122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513172921187	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513172921677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172922432	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172922444	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513172923724	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/dashboard/"
+1513172923725	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513172925658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513172925700	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513172925958	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172926206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172926472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172926690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172926932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172927154	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172984201	geckodriver	INFO	geckodriver 0.19.1
+1513172984204	geckodriver	INFO	Listening on 127.0.0.1:40607
+1513172985330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8TS38ngpNqbM"
+1513172985806	Marionette	INFO	Enabled via --marionette
+1513172987300	Marionette	INFO	Listening on port 45175
+1513172987341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513172987395	Marionette	DEBUG	Register listener.js for window 2147483649
+1513172987410	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513172987450	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513172987451	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513172987822	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513172987883	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513172988333	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172989133	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172989137	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513172990559	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513172990560	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513172991933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513172991976	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513172992232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172992484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172992743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172992985	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172993227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513172993464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173095763	geckodriver	INFO	geckodriver 0.19.1
+1513173095767	geckodriver	INFO	Listening on 127.0.0.1:57559
+1513173096866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IhsrM3enZS06"
+1513173097301	Marionette	INFO	Enabled via --marionette
+1513173098725	Marionette	INFO	Listening on port 36505
+1513173098796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173098862	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173098880	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173098924	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173098924	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173099278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173099334	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173099745	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173100542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173100545	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173101953	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173101954	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173103261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173103304	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173103564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173103813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173104074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173104318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173104558	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173104800	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173105026	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173107039	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173108388	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173108403	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173108740	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513173108741	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513173109431	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173109474	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173109738	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173197828	geckodriver	INFO	geckodriver 0.19.1
+1513173197830	geckodriver	INFO	Listening on 127.0.0.1:59271
+1513173198940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.os5ddw4qJjUM"
+1513173199373	Marionette	INFO	Enabled via --marionette
+1513173200714	Marionette	INFO	Listening on port 43937
+1513173200775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173200827	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173200853	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173200909	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173200909	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173201380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173201438	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173201886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173202681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173202685	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173203978	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173203979	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173205750	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173205796	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173206056	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173206305	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173206571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173206813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173207057	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173207298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173317883	geckodriver	INFO	geckodriver 0.19.1
+1513173317886	geckodriver	INFO	Listening on 127.0.0.1:40415
+1513173319004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CfiZldY8FSau"
+1513173319438	Marionette	INFO	Enabled via --marionette
+1513173320914	Marionette	INFO	Listening on port 34553
+1513173321017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173321071	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173321089	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173321141	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173321142	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173321519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173321578	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173321989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173322754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173322776	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513173324158	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/dashboard/"
+1513173324159	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513173326141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173326184	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173326442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173326693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173326959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173327206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173327449	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173327690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173346132	geckodriver	INFO	geckodriver 0.19.1
+1513173346135	geckodriver	INFO	Listening on 127.0.0.1:37415
+1513173347234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bdRhCmg6I2Pe"
+1513173347652	Marionette	INFO	Enabled via --marionette
+1513173349071	Marionette	INFO	Listening on port 39215
+1513173349143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173349195	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173349209	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173349257	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173349257	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173349617	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173349645	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173350107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173350914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173350917	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173352428	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173352430	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173354496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173354549	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173354825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173355072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173355336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173355582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173355827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173356061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173393402	geckodriver	INFO	geckodriver 0.19.1
+1513173393405	geckodriver	INFO	Listening on 127.0.0.1:53751
+1513173394527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VUWBMnRtMkTg"
+1513173394974	Marionette	INFO	Enabled via --marionette
+1513173396294	Marionette	INFO	Listening on port 45777
+1513173396367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173396449	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173396471	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173396515	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173396515	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173396860	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173396919	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173397358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173398126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173398129	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173399551	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173399552	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173406089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173406132	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173406405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173406656	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173406934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173407177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173407393	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173407638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513173492759	geckodriver	INFO	geckodriver 0.19.1
+1513173492762	geckodriver	INFO	Listening on 127.0.0.1:57069
+1513173493866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.srbrybzIxeEV"
+1513173494321	Marionette	INFO	Enabled via --marionette
+1513173495828	Marionette	INFO	Listening on port 40667
+1513173495884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173495952	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173495968	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173496025	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173496025	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173496396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173496418	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173496853	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173497638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173497642	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1513173499063	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173499064	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173500616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173500674	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173500937	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173501202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173501470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173501714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173501960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173502202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173512639	geckodriver	INFO	geckodriver 0.19.1
+1513173512642	geckodriver	INFO	Listening on 127.0.0.1:58415
+1513173513840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ok1flEVplPBU"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513173514344	Marionette	INFO	Enabled via --marionette
+1513173515885	Marionette	INFO	Listening on port 36815
+1513173515957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173516011	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173516025	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173516070	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173516070	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173516455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173516482	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173516958	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173517722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173517726	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173519126	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173519127	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173520702	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173520745	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173521006	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173521272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173521536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173521785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173522030	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173522273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173593867	geckodriver	INFO	geckodriver 0.19.1
+1513173593869	geckodriver	INFO	Listening on 127.0.0.1:38071
+1513173594980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nuNH7mZ9FMrz"
+1513173595458	Marionette	INFO	Enabled via --marionette
+1513173596824	Marionette	INFO	Listening on port 40791
+1513173596896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173596963	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173596981	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173597034	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173597034	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173597364	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173597431	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173597824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173598618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173598622	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173600100	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173600101	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173601467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173601511	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173601771	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173602004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173602267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173602508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173602749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173602988	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513173675882	geckodriver	INFO	geckodriver 0.19.1
+1513173675885	geckodriver	INFO	Listening on 127.0.0.1:48591
+1513173677005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OMzhsONkTB6n"
+1513173677860	Marionette	INFO	Enabled via --marionette
+1513173680444	Marionette	INFO	Listening on port 40219
+1513173680483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173680584	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173680683	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173680768	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173680768	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173681305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173681419	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173681915	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173682703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173682706	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173684356	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173684357	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173686784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173686850	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173687175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173687432	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173687720	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173687946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173688168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173688387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173690580	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173692424	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173692424	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173692898	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513173692899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513173694647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173694718	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173695031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173725603	geckodriver	INFO	geckodriver 0.19.1
+1513173725606	geckodriver	INFO	Listening on 127.0.0.1:44393
+1513173726715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.953PsvicDVoF"
+1513173727485	Marionette	INFO	Enabled via --marionette
+1513173729888	Marionette	INFO	Listening on port 35941
+1513173729966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173730049	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173730078	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173730173	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173730173	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173730554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173730599	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173731230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173732001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173732007	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173733804	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173733805	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173735791	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173735851	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173736180	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173736416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173736648	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173736880	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173737119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173737338	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173739513	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173741431	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173741431	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173741973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513173741984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513173743631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173743698	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173744010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173791466	geckodriver	INFO	geckodriver 0.19.1
+1513173791469	geckodriver	INFO	Listening on 127.0.0.1:37551
+1513173792592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oxIDjmqsuAIX"
+1513173793400	Marionette	INFO	Enabled via --marionette
+1513173795859	Marionette	INFO	Listening on port 35481
+1513173795964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173796071	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173796147	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173796213	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173796213	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173796697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173796802	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173797314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173798085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173798088	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173799952	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173799953	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173802221	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173802284	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173802575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173802823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173803102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173803328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173803551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173803769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173805914	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173807684	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173807684	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173808205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513173808205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513173809899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173809959	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173810273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173981432	geckodriver	INFO	geckodriver 0.19.1
+1513173981436	geckodriver	INFO	Listening on 127.0.0.1:34267
+1513173982584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ziuVDE2Ty3CM"
+1513173983356	Marionette	INFO	Enabled via --marionette
+1513173985857	Marionette	INFO	Listening on port 41359
+1513173985930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513173986030	Marionette	DEBUG	Register listener.js for window 2147483649
+1513173986082	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513173986150	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513173986150	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513173988183	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173988268	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513173988670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173989458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173989461	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173991463	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173991464	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513173993866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173993931	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173994252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173994491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173994729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173994962	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173995178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173995397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513173997566	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173999417	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513173999418	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174000165	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513174000166	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513174001426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174002298	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174002569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174029900	geckodriver	INFO	geckodriver 0.19.1
+1513174029908	geckodriver	INFO	Listening on 127.0.0.1:41279
+1513174031040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7GTzP1Kt02xw"
+1513174031852	Marionette	INFO	Enabled via --marionette
+1513174034673	Marionette	INFO	Listening on port 41111
+1513174034709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174034812	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174034879	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174034964	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174034964	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174038662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174038701	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174039140	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174039898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174039902	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513174041676	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513174041677	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513174044465	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174044510	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174044810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174045093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174045326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174045552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174045787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174046015	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174048193	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174049907	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174049908	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174050506	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513174050507	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513174052054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174052130	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174052412	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174453590	geckodriver	INFO	geckodriver 0.19.1
+1513174453602	geckodriver	INFO	Listening on 127.0.0.1:52745
+1513174454725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YgZPwJ3cc1MH"
+1513174455464	Marionette	INFO	Enabled via --marionette
+1513174457852	Marionette	INFO	Listening on port 43719
+1513174457918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174458006	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174458027	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174458098	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174458099	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174458481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174458540	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174459037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174459813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174459817	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513174461533	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513174461533	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513174463591	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174463667	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174463977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174464235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174464536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174464786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174465010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174465231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174467412	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174468998	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174468998	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174470195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513174470196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513174471912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174471976	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513174472255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174472495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513174554305	geckodriver	INFO	geckodriver 0.19.1
+1513174554308	geckodriver	INFO	Listening on 127.0.0.1:57507
+1513174555431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VGvhip9vosTa"
+1513174555878	Marionette	INFO	Enabled via --marionette
+1513174557350	Marionette	INFO	Listening on port 36477
+1513174557439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174557489	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174557505	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174557551	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174557551	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174596903	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1513174600453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1513174600497	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1513174603019	geckodriver	INFO	geckodriver 0.19.1
+1513174603022	geckodriver	INFO	Listening on 127.0.0.1:47831
+1513174604125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.H5VaI4HDShJp"
+1513174604566	Marionette	INFO	Enabled via --marionette
+1513174606082	Marionette	INFO	Listening on port 44617
+1513174606135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174606207	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174606220	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174606260	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174606260	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174645596	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1513174650086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1513174650133	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1513174661308	geckodriver	INFO	geckodriver 0.19.1
+1513174661310	geckodriver	INFO	Listening on 127.0.0.1:52817
+1513174662411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HcUCOhns5abQ"
+1513174662845	Marionette	INFO	Enabled via --marionette
+1513174664225	Marionette	INFO	Listening on port 40791
+1513174664339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174664398	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174664411	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174664450	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174664451	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174686235	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174686239	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174713317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1513174715538	geckodriver	INFO	geckodriver 0.19.1
+1513174715541	geckodriver	INFO	Listening on 127.0.0.1:38999
+1513174716641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kSp3JkSv6pUY"
+1513174717062	Marionette	INFO	Enabled via --marionette
+1513174718426	Marionette	INFO	Listening on port 46677
+1513174718454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174718506	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174718522	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174718559	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174718559	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174736282	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174736297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174736435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:home"
+1513174736436	Marionette	DEBUG	Received DOM event "pageshow" for "about:home"
+1513174753150	geckodriver	INFO	geckodriver 0.19.1
+1513174753153	geckodriver	INFO	Listening on 127.0.0.1:60843
+1513174754259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d13oz9WQ03xp"
+1513174754701	Marionette	INFO	Enabled via --marionette
+1513174756054	Marionette	INFO	Listening on port 36383
+1513174756072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174756122	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174756159	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174756204	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174756204	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174762378	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174762381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513174764933	Marionette	DEBUG	Register listener.js for window 2147483654
+1513174765083	Marionette	DEBUG	Register listener.js for window 4294967297
+1513174781770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 11656, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1513174787284	geckodriver	INFO	geckodriver 0.19.1
+1513174787286	geckodriver	INFO	Listening on 127.0.0.1:52393
+1513174788389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.771bgE1qVy8M"
+1513174788818	Marionette	INFO	Enabled via --marionette
+1513174790105	Marionette	INFO	Listening on port 39907
+1513174790206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174790257	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174790296	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174790311	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174790312	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174790312	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174790340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//127.0.0.1%3A8000/accounts/usernamelogin/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20127.0.0.1%3A8000."
+[Child 11796, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513174802506	geckodriver	INFO	geckodriver 0.19.1
+1513174802509	geckodriver	INFO	Listening on 127.0.0.1:43893
+1513174803609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HfREXEdtyhUg"
+1513174804034	Marionette	INFO	Enabled via --marionette
+1513174805449	Marionette	INFO	Listening on port 32845
+1513174805525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174805579	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174805593	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174805810	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174805811	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174812226	geckodriver	INFO	geckodriver 0.19.1
+1513174812229	geckodriver	INFO	Listening on 127.0.0.1:49899
+1513174813353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1OWSWpZ0sjwR"
+1513174813819	Marionette	INFO	Enabled via --marionette
+1513174815153	Marionette	INFO	Listening on port 39747
+1513174815162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174815220	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174815250	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174815292	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174815292	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174825856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 11940, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 11940, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 11940, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1513174826731	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 12094, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1513174862019	geckodriver	INFO	geckodriver 0.19.1
+1513174862022	geckodriver	INFO	Listening on 127.0.0.1:44843
+1513174863121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t4Dlzj2RJHyy"
+1513174863569	Marionette	INFO	Enabled via --marionette
+1513174865073	Marionette	INFO	Listening on port 38017
+1513174865128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174865177	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174865191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174865229	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174865229	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174893536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1513174924019	geckodriver	INFO	geckodriver 0.19.1
+1513174924021	geckodriver	INFO	Listening on 127.0.0.1:43577
+1513174925121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oMee3l5JGTWz"
+1513174925544	Marionette	INFO	Enabled via --marionette
+1513174926862	Marionette	INFO	Listening on port 45135
+1513174926951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174927002	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174927025	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174927263	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174927264	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513174930868	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 12493, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1513174973759	geckodriver	INFO	geckodriver 0.19.1
+1513174973767	geckodriver	INFO	Listening on 127.0.0.1:56625
+1513174974914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.c0QxZuXXsPBM"
+1513174975332	Marionette	INFO	Enabled via --marionette
+1513174976775	Marionette	INFO	Listening on port 42525
+1513174976869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513174976956	Marionette	DEBUG	Register listener.js for window 2147483649
+1513174976982	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513174977030	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513174977030	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513175002413	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175002417	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175019138	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175019140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175021397	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 13051, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1513175058962	geckodriver	INFO	geckodriver 0.19.1
+1513175058966	geckodriver	INFO	Listening on 127.0.0.1:46007
+1513175060065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hiGR7qgtlagB"
+1513175060506	Marionette	INFO	Enabled via --marionette
+1513175062069	Marionette	INFO	Listening on port 37325
+1513175062076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513175062132	Marionette	DEBUG	Register listener.js for window 2147483649
+1513175062153	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513175062192	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513175062192	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513175094766	geckodriver	INFO	geckodriver 0.19.1
+1513175094769	geckodriver	INFO	Listening on 127.0.0.1:51487
+1513175095892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4BI7eMErHdB0"
+1513175096381	Marionette	INFO	Enabled via --marionette
+1513175098038	Marionette	INFO	Listening on port 38045
+1513175098100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513175098152	Marionette	DEBUG	Register listener.js for window 2147483649
+1513175098168	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513175098208	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513175098209	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513175105057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 13618, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-woLN5w/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1513175219313	geckodriver	INFO	geckodriver 0.19.1
+1513175219317	geckodriver	INFO	Listening on 127.0.0.1:56513
+1513175220477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CVhTpTpqvmpr"
+1513175221480	Marionette	INFO	Enabled via --marionette
+1513175223491	Marionette	INFO	Listening on port 43109
+1513175223587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513175223644	Marionette	DEBUG	Register listener.js for window 2147483649
+1513175223660	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513175223926	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513175223926	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513175224280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175224303	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175224900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175225692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175225694	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175227110	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175227110	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175229311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175229351	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175229608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175229847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175230197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175230416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175230660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175230910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175233130	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175234536	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175234536	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175234934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513175234934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513175235748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175235806	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175236075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175236323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175267398	geckodriver	INFO	geckodriver 0.19.1
+1513175267401	geckodriver	INFO	Listening on 127.0.0.1:43869
+1513175268520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KCQGZSKPmseB"
+1513175268974	Marionette	INFO	Enabled via --marionette
+1513175270442	Marionette	INFO	Listening on port 45951
+1513175270528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513175270582	Marionette	DEBUG	Register listener.js for window 2147483649
+1513175270596	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513175270656	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513175270656	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513175270942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175270999	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175271448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175272254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175272258	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175273650	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175273650	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175274962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175275009	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175275266	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175275524	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175275848	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175276090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175276341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175276604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175278824	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175280070	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175280070	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175280460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513175280460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513175281282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175281336	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175281586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175281823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175291002	geckodriver	INFO	geckodriver 0.19.1
+1513175291005	geckodriver	INFO	Listening on 127.0.0.1:45619
+1513175292100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gQRZ4XnYQ6hK"
+1513175292535	Marionette	INFO	Enabled via --marionette
+1513175293976	Marionette	INFO	Listening on port 45805
+1513175294019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513175294073	Marionette	DEBUG	Register listener.js for window 2147483649
+1513175294096	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513175294238	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513175294238	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513175294545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175294565	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175295029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175295786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175295790	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1513175297086	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175297087	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175298547	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175298592	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175298846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175299075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175329265	geckodriver	INFO	geckodriver 0.19.1
+1513175329268	geckodriver	INFO	Listening on 127.0.0.1:54167
+1513175330368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.97oF3kdjx99Y"
+1513175330800	Marionette	INFO	Enabled via --marionette
+1513175332269	Marionette	INFO	Listening on port 34951
+1513175332286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513175332344	Marionette	DEBUG	Register listener.js for window 2147483649
+1513175332374	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513175332422	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513175332422	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513175332713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175332768	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175333234	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175334032	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175334055	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513175335497	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/dashboard/"
+1513175335497	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513175337538	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175337584	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175337850	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175338096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175338425	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175338667	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175338910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175339155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175341318	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175342728	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175342729	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175343186	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513175343187	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1513175344404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175344451	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175344721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175344984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175401482	geckodriver	INFO	geckodriver 0.19.1
+1513175401485	geckodriver	INFO	Listening on 127.0.0.1:55373
+1513175402609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7kH6TkPXHuhX"
+1513175403040	Marionette	INFO	Enabled via --marionette
+1513175404493	Marionette	INFO	Listening on port 37095
+1513175404517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513175404583	Marionette	DEBUG	Register listener.js for window 2147483649
+1513175404610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513175404651	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513175404651	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513175405825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175405882	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175406286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175407087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175407101	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513175408489	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/dashboard/"
+1513175408489	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/dashboard/"
+1513175410127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175410169	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175410426	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175410702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175411042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175411285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175411507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175411747	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175413946	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175415349	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175415349	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175415795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513175415795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1513175416651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175416711	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175416993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175417233	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175462325	geckodriver	INFO	geckodriver 0.19.1
+1513175462328	geckodriver	INFO	Listening on 127.0.0.1:35313
+1513175463428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ms9jyo2vSaHc"
+1513175463850	Marionette	INFO	Enabled via --marionette
+1513175465184	Marionette	INFO	Listening on port 39379
+1513175465274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513175465328	Marionette	DEBUG	Register listener.js for window 2147483649
+1513175465341	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513175465395	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513175465396	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513175465807	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175465862	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/accounts/usernamelogin/"
+1513175466337	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175467094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175467098	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175468528	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175468528	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/accounts/passwordlogin/"
+1513175470205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175470252	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175470506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175470754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175471104	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175471347	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175471591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175471816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175474008	Marionette	DEBUG	Received DOM event "beforeunload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175475382	Marionette	DEBUG	Received DOM event "pagehide" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175475382	Marionette	DEBUG	Received DOM event "unload" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175475794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513175475795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513175476621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175476677	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8000/professor/pedagogical/skill/156/"
+1513175476926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513175477166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
