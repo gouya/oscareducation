@@ -40,15 +40,15 @@ class Rating(models.Model):
     """The User who rated"""
 
     rated_on = models.DateTimeField()
-    """Date of rating"""
+    """The date of rating"""
 
 
     def number_votes_question(self,resource,question):
         """
 
-        :param resource: teh resource we want the votes from
+        :param resource: the resource we want the votes from
         :param question: the question we want the votes from
-        :return: return the number of people who voted for the question on th reosource
+        :return: return the number of people who voted for the question on th resource
         """
         r = Rating.objects.filter(resource=resource,question=question)
         return r.entry_set.count()
@@ -65,4 +65,4 @@ class Question(models.Model):
     """The type of question (user for prof vs student)"""
 
     label = models.TextField()
-    """The label assigned to a question """
+    """The label assigned to a question. Represents the core of the function"""

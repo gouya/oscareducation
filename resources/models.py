@@ -25,11 +25,12 @@ class Resource(models.Model):
 
     def add_star(self,rate,user,comment=""):
         """
-        Creates or modifies the star rating for a resource by a user
+        Add a star object for this resource
 
-        :param rate: float number of stars given
-        :param user: user who is giving the stars
-        :return: the star object or None is the user can not rate the resource because he uploaded it
+        :param rate: the float value given by the user for this resource
+        :param user: the user creating the star object
+        :param comment: the comment left by the user for this resource
+        :return: Star object or None if error
         """
         if self.added_by == user:
             return None
@@ -93,7 +94,7 @@ class Resource(models.Model):
     def weighted_average(self):
         """
 
-        :return: retuns the weighted average of profs and students
+        :return: retuns the weighted average vote of professors ad students
         """
         avg_p, avg_s = self.average()
         if avg_p == 0:
@@ -137,10 +138,10 @@ class Resource(models.Model):
         return rating
 
     def get_rating(self,user):
-        """
+        """ Get all ratings for user
 
         :param user: User who rated the resource
-        :return:
+        :return: QuerySet of rating objects that are associated with the user
         """
         if  self.added_by == user:
             return None
@@ -163,6 +164,12 @@ class Resource(models.Model):
             return 0
 
     def get_average_votes_question(self,question,type):
+        """ Get the average vote for a certain question of a user type(student or professor)
+
+        :param question: the question we want the votes from
+        :param type: 'prof' or 'stud'
+        :return: Average value of votes to a question of a resource by a certain type of people
+        """
         r = Rating.objects.filter(resource=self,question=question)
 
         count = 0
@@ -194,6 +201,11 @@ class Resource(models.Model):
             return 0
 
     def get_question_voted(self,type):
+        """
+
+        :param type: 'prof' or 'stud'
+        :return: A list of questions who where answered by users for this resource
+        """
         r = Rating.objects.filter(resource=self)
         questions = []
         for e in r:

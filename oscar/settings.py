@@ -55,7 +55,7 @@ INSTALLED_APPS = (
     'planification',
     'examinations',
     'student',
-    'rating',
+    'rating', # group 09
     'stats',
     'compressor',
     'users',
