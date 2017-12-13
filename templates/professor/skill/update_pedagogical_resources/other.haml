@@ -111,6 +111,7 @@
                   %a.btn.btn-primary.btn-lg{href: "{{ MEDIA_URL }}{{ item.file }}", target: "_blank"}
                     %span.glyphicon.glyphicon-save-file Télécharger
             %hr
+        -include "professor/skill/update_pedagogical_resources/media/rating.haml"
         -if user.professor and add
           %form.remove-form{method: "POST", action: "{% url 'professor:remove_pedagogical_ressources' type base.id 'resource' resource.id %}"}
             -csrf_token
