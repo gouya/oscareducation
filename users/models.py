@@ -39,7 +39,6 @@ class Professor(models.Model):
         nb_4 = 0
         for r in res:
             avg = r.weighted_average()
-            print(avg)
             if avg >= 4:
                 nb_4 += 1
         if nb_4 > self.nbr_4_star_res:

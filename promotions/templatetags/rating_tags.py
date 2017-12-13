@@ -25,7 +25,7 @@ def get_average_student(id):
         print("Error: Resource with id %d doesn't exist" % id)
         return 0
     student,prof = resource.average()
-    return student
+    return float(student)
 
 @register.simple_tag
 def get_average_prof(id):
@@ -35,7 +35,7 @@ def get_average_prof(id):
         print("Error: Resource with id %d doesn't exist"%id)
         return 0
     student,prof = resource.average()
-    return prof
+    return float(prof)
 
 @register.simple_tag
 def owner(u,userother,t,f):
@@ -47,3 +47,10 @@ def owner(u,userother,t,f):
 @register.filter
 def get_json(dictionary):
     return json.dumps(dictionary)
+
+@register.assignment_tag(takes_context=False)
+def owns(dict,id):
+    try:
+        return dict[id].get("voted")
+    except KeyError:
+        return False

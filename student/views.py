@@ -297,14 +297,16 @@ def skill_pedagogic_ressources(request, type, slug):
         resource = Resource.objects.get(pk=item.id)
         st,p = resource.average()
 
-        r = Rating.objects.filter(resource=item.id,rated_by=request.user)
-        s = Star_rating.objects.filter(resource=item.id,rated_by=request.user)
+        r = Rating.objects.filter(resource=item.id)
+        s = Star_rating.objects.filter(resource=item.id)
         if r.exists() & s.exists():
-            if s.count() != 1:
-                print "Error more than 1 star rating for 1 resource"
             rated_res[item.id] = {}
             rated_res[item.id]["prof"] = p
             rated_res[item.id]["stud"] = st
+            for bb in s:
+                if bb.rated_by == request.user:
+                    rated_res[item.id]["voted"] = True
+                    break
             for rr in r:
                 rated_res[item.id][rr.question.id] = rr.value
 
@@ -615,7 +617,6 @@ def create_rate(request,type,id):
 
 
 def get_rate_vote(request,type,id):
-    print("helow")
     if request.method == 'POST':
         dicty = {}
         id = int(request.POST.get('id'))
@@ -642,9 +643,7 @@ def get_rate_vote(request,type,id):
         dicty["professor"] = s
         dicty["student"] = p
 
-        print("Called")
         for q in questions:
-            print(q.id)
             dicty["data"][int(q.id)] = []
             dicty["data"][int(q.id)].append(q.question_statement)
             r = Rating.objects.filter(question=q,resource=id,rated_by=request.user)

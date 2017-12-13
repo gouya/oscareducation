@@ -35,10 +35,11 @@
           %p{id:"studavg"}
             {% get_average_rated_dict rated_resources resource.id "stud" %}%
   %div.small
+  {% owns rated_resources resource.id as voted%}
   -if resource.added_by == request.user
     Vous ne pouvez pas voter votre propre resource
   -else
-    -if resource.id in rated_resources
+    -if voted
       Merci pour votre vote. Cliquer pour le modifier
   -block javascript
     -compress js

@@ -71,6 +71,7 @@ class Resource(models.Model):
                 student = Student.objects.get(user=e.rated_by)
             except Student.DoesNotExist:
                 student = None
+
             if prof != None:
                 prof_nb = prof_nb + 1
                 star_prof = star_prof + e.star
@@ -82,12 +83,12 @@ class Resource(models.Model):
             if prof_nb==0:
                 return (0,0)
             else:
-                return (0, star_prof / prof_nb)
+                return (0, float(star_prof) / float(prof_nb))
         else:
             if prof_nb==0:
-                return (star_student / student_nb,0)
+                return (float(star_student) / float(student_nb),0)
             else:
-                return (star_student / student_nb, star_prof / prof_nb)
+                return (float(star_student) / float(student_nb), float(star_prof) / float(prof_nb))
 
     def weighted_average(self):
         """
